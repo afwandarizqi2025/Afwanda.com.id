@@ -17,8 +17,8 @@
   <div class="header-text">
     <h1>afwanda rizqi</h1>
     <p class="subtitle">He/Him • Web Developer</p>
-    <p>Jakarta, Indonesia • <a href="https://wawan.sismadi.com">wawan.sismadi.com</a></p>
-    <p><strong>Sismadi Langit Solusi</strong> — Universitas Ahmad Dahlan</p>
+    <p>Jakarta, Indonesia • <a href="https://afwanda.rizqi.com">afwanda.rizqi.com</a></p>
+    <p><strong>afwanda Langit Solusi</strong> — Universitas ipwija</p>
   </div>
 
   <div class="action-buttons">
